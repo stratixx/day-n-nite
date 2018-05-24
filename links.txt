@@ -1,9 +1,0 @@
-https://calendar.zoznam.sk/sunset-pl.php?city=756135
-https://calendar.zoznam.sk/sunset-pl.php?hy=2017&latitude=52.2298&longitude=21.0118&city=756135&zenith=90.833333333333&timezone=05a1&submittype=user&firsttime=no
-https://calendar.zoznam.sk/sunset-pl.php?hy=2016&latitude=52.2298&longitude=21.0118&city=756135&zenith=90.833333333333&timezone=05a1&submittype=user&firsttime=no
-https://calendar.zoznam.sk/sunset-pl.php?hy=2015&latitude=52.2298&longitude=21.0118&city=756135&zenith=90.833333333333&timezone=05a1&submittype=user&firsttime=no
-https://calendar.zoznam.sk/sunset-pl.php?hy=2014&latitude=52.2298&longitude=21.0118&city=756135&zenith=90.833333333333&timezone=05a1&submittype=user&firsttime=no
-https://calendar.zoznam.sk/sunset-pl.php?hy=2013&latitude=52.2298&longitude=21.0118&city=756135&zenith=90.833333333333&timezone=05a1&submittype=user&firsttime=nohttps://calendar.zoznam.sk/sunset-pl.php?hy=2012&latitude=52.2298&longitude=21.0118&city=756135&zenith=90.833333333333&timezone=05a1&submittype=user&firsttime=nohttps://calendar.zoznam.sk/sunset-pl.php?hy=2011&latitude=52.2298&longitude=21.0118&city=756135&zenith=90.833333333333&timezone=05a1&submittype=user&firsttime=no
-https://calendar.zoznam.sk/sunset-pl.php?hy=2010&latitude=52.2298&longitude=21.0118&city=756135&zenith=90.833333333333&timezone=05a1&submittype=user&firsttime=no
-https://calendar.zoznam.sk/sunset-pl.php?hy=2009&latitude=52.2298&longitude=21.0118&city=756135&zenith=90.833333333333&timezone=05a1&submittype=user&firsttime=no
-https://calendar.zoznam.sk/sunset-pl.php?hy=2008&latitude=52.2298&longitude=21.0118&city=756135&zenith=90.833333333333&timezone=05a1&submittype=user&firsttime=no
